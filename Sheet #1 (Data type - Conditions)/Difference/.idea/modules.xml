@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Difference.iml" filepath="$PROJECT_DIR$/Difference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/difference.iml" filepath="$PROJECT_DIR$/difference.iml" />
     </modules>
   </component>
 </project>
