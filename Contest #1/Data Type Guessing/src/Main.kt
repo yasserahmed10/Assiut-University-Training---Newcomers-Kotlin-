@@ -1,6 +1,6 @@
 import java.math.BigDecimal
 fun main() {
-    val inputs = readlnOrNull()?.split(" ")
+    val inputs = readlnOrNull()!!.split(" ")
     if (inputs != null && inputs.size == 3) {
         val n = BigDecimal(inputs[0])
         val k = BigDecimal(inputs[1])
