@@ -31,6 +31,6 @@ This repository is a collection of Kotlin solutions to programming problems, cat
 Contributions are welcome! If you have additional problems, solutions, or improvements to existing solutions, please submit a pull request. Make sure to follow the contribution guidelines in the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
 
 ## License
-This project is licensed under the [MIT-LICENSE](./LICENSE) - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the [MIT-LICENSE](MIT-LICENSE.txt) - see the [LICENSE](MIT-LICENSE.txt) file for details.
 
 Happy coding!
