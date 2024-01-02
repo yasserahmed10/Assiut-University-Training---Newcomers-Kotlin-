@@ -5,8 +5,8 @@ fun main() {
     for (char in input) {
         when {
             char == ',' -> result.append(' ')
-            char.isUpperCase() -> result.append(char.toLowerCase())
-            char.isLowerCase() -> result.append(char.toUpperCase())
+            char.isUpperCase() -> result.append(char.lowercaseChar())
+            char.isLowerCase() -> result.append(char.uppercaseChar())
             else -> result.append(char)
         }
     }
